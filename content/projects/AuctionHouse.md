@@ -11,4 +11,4 @@ showInProjects: true
 ---
 
 
-This is a python-based client-server auction system where the server utilizes sockets and threading to handle multiple client connections and implements a lock for secure offer submission. The server facilitates auctions for user-defined products, managing bidding rounds until no higher offers are made, while the client connects to the server via sockets, enabling bid submissions, counter-offers, and receiving updates on bidding rounds and current highest offers.
+This is a python-based client-server auction system where the server utilizes sockets and threading to handle multiple client connections and implements a lock for secure offer submission. 
