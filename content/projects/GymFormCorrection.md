@@ -1,5 +1,5 @@
 ---
-date: '2024-02-16'
+date: '2023-02-16'
 title: 'Gym Form Correction'
 github: 'https://github.com/SlimShady1414/GymFormCorrection'
 external: 'https://github.com/SlimShady1414/GymFormCorrection'
@@ -9,7 +9,7 @@ tech:
   - Aruco Markers
   - GTTS
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 This project detects the position of the person performing a particular exercise and tells if the posture is good or bad, and it also give tips on how to correct the posture.

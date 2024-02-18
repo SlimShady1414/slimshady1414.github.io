@@ -1,5 +1,5 @@
 ---
-date: '2024-02-16'
+date: '2023-02-16'
 title: 'Automated No Dues Software'
 github: 'https://github.com/SlimShady1414/NoDues'
 external: 'https://github.com/SlimShady1414/NoDues'

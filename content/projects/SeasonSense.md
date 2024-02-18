@@ -1,5 +1,5 @@
 ---
-date: '2024-02-16'
+date: '2022-02-16'
 title: 'SeasonSense Kodikon Hackathon'
 github: 'https://github.com/SlimShady1414/SeasonSense'
 external: 'https://github.com/SlimShady1414/SeasonSense'
@@ -9,7 +9,7 @@ tech:
   - Regression
   - APIs
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 

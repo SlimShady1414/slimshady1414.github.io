@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is'
 name: 'Adhi Nandan J'
-subtitle: '~student ~problem-solver ~tech-explorer ~curious mind'
+subtitle: '~problem-solver ~curious mind'
 buttonText: 'Get In Touch'
 ---
 
