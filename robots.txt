@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://slimshady1414.github.io/sitemap-index.xml
+Host: https://slimshady1414.github.io
