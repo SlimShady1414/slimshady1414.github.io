@@ -46,7 +46,13 @@ const links = [
     icon: 'fab fa-fw fa-linkedin',
     link: `https://www.linkedin.com/in/adhinandanj/`,
     description: 'My LinkedIn Profile',
-},
+	},
+	{
+    name: 'Resume',
+    icon: 'fas fa-fw fa-link',
+    link: `https://drive.google.com/file/d/1sjNv6jkKVozo40KoJeMD8H8vm8hI8DLh/view?usp=sharing`,
+    description: 'My Resume',
+	},
 
 ]
 
@@ -60,11 +66,11 @@ const info = (
 			I've got intermediate experience in Programming languages such as{' '}
 			<span className="highlighted">Python</span> ,{' '}
 			<span className="highlighted">C++</span> and{' '}
-			<span className="highlighted">Java</span>
+			<span className="highlighted">Java.</span>
 		</p>
 		<p>
 			I've been looking into{' '}
-			<span className="highlighted">LLMS and Gen AI</span>
+			<span className="highlighted">LLMS and Gen AI.</span>
 		</p>
 		<p>
 			Aside from that, I have basic knowledge of{' '}
