@@ -51,7 +51,7 @@ const rawCommands: Command[] = [
 								<strong>{name}</strong>{' '}
 								<span className="muted">@{login}</span>
 							</div>
-							<em className={styles.bio}>"...{bio}"</em>
+							<em className={styles.bio}>"Welcome to my 'prompt'folio{bio}"</em>
 							<div className={styles.info}>{info}</div>
 						</div>
 					</div>

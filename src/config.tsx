@@ -27,13 +27,7 @@ const links = [
 		name: 'Website',
 		icon: 'fas fa-fw fa-coffee',
 		link: 'https://slimshady1414.github.io/',
-		description: 'Personal website',
-	},
-	{
-		name: 'Discord',
-		link: `https://discord.com/users/${discord_userid}`,
-		icon: 'fab fa-fw fa-discord',
-		description: `${discord_usertag} | Add me as friend!`,
+		description: 'Personal website, you are looking at it now',
 	},
 	{
 		name: 'E-mail',
@@ -53,7 +47,12 @@ const links = [
     link: `https://drive.google.com/file/d/1sjNv6jkKVozo40KoJeMD8H8vm8hI8DLh/view?usp=sharing`,
     description: 'My Resume',
 	},
-
+	{
+		name: 'Discord',
+		link: `https://discord.com/users/${discord_userid}`,
+		icon: 'fab fa-fw fa-discord',
+		description: `${discord_usertag} | Add me as friend!`,
+	},
 ]
 
 const info = (
