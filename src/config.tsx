@@ -13,7 +13,7 @@ const projects = [
 	'slimshady1414/CryptoVortexX',
 	'slimshady1414/Lost-and-Found-DBMS',
 	'slimshady1414/NoDues',
-	'slimshady1414/Auction-House-Using-Socket-Programming'
+	'slimshady1414/Auction-House-Using-Socket-Programming',
 ]
 
 const links = [
@@ -41,15 +41,26 @@ const links = [
 		link: `mailto:${email}`,
 		description: 'Lets get in touch!',
 	},
+	{
+    name: 'LinkedIn',
+    icon: 'fab fa-fw fa-linkedin',
+    link: `https://www.linkedin.com/in/adhinandanj/`,
+    description: 'My LinkedIn Profile',
+},
+
 ]
 
 const info = (
 	<>
-		<p>Hey! I am Adhi Nandan J, a final year undergraduate in PES University, Bengaluru.</p>
+		<p>
+			Hey! I am Adhi Nandan J, a final year undergraduate in PES
+			University, Bengaluru.
+		</p>
 		<p>
 			I've got intermediate experience in Programming languages such as{' '}
 			<span className="highlighted">Python</span> ,{' '}
-			<span className="highlighted">C++</span> and <span className="highlighted">Java</span>
+			<span className="highlighted">C++</span> and{' '}
+			<span className="highlighted">Java</span>
 		</p>
 		<p>
 			I've been looking into{' '}
