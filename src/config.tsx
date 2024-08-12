@@ -5,6 +5,7 @@ const discord_userid = '1124379052791308398'
 const email = 'adhinandanj@gmail.com'
 
 const projects = [
+	'slimshady1414/cloud-code',
 	'slimshady1414/chatbot-multiple-files',
 	'slimshady1414/chat-with-image',
 	'slimshady1414/pandafs',
@@ -44,7 +45,7 @@ const links = [
 	{
     name: 'Resume',
     icon: 'fas fa-fw fa-link',
-    link: `https://drive.google.com/file/d/1TNJJ2orpHbTcjaEV9622-6vfzgzhf2UI/view?usp=sharing`,
+    link: `https://drive.google.com/file/d/1WcwHcWhc6728zVjP7NowXmNysqe84uAL/view?usp=sharing`,
     description: 'My Resume',
 	},
 	{
